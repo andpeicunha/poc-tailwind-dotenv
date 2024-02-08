@@ -1,3 +1,4 @@
 {
-  "--background-brand-primary-default": "#004D68"
+  "--background-brand-primary-default": "#004D68",
+  "--primary": "#29acd8"
 }
