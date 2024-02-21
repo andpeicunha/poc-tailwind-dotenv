@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root {
-  --background-brand-primary-default: rgb(255,105,180) !important;
+  --background-brand-primary-default: rgb(0, 155, 119) !important;
   --variable-test-andre: rgb(255,105,180) !important;
 }
 
