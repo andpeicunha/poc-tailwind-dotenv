@@ -1,4 +1,4 @@
 :root {
-  "--background-brand-primary-default": rgb(255,131,131),
-  "--primary": "#FF9653"
+  "--background-brand-primary-default": rgb(255,131,131) !important,
+  "--primary": "#FF9653" !important,
 }
