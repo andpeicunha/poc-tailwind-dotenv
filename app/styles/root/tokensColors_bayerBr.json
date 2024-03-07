@@ -1,3 +1,21 @@
 {
-  "--background-brand-primary-default": "rgb(255,0,0) !important"
+  "--background-brand-primary-default": "rgb(255,0,0) !important",
+  "--content-primary": "rgb(52,57,59) !important",
+  "--content-primary-on-dark": "rgb(255,255,255) !important",
+  "--content-primary-inverted": "rgb(35,36,37) !important",
+  "--content-secondary": "rgb(97,103,107) !important",
+  "--content-secondary-on-dark": "#ACB2A8 !important",
+  "--content-secondary-inverted": "#34393B !important",
+  "--content-tertiary": "#787E82 !important",
+  "--content-tertiary-on-dark": "#90959A !important",
+  "--content-disabled": "#A8ADB2 !important",
+  "--content-accent-primary-default": "#005CB8 !important",
+  "--content-accent-primary-default-on-dark": "#B5DBFF !important",
+  "--content-accent-primary-hover": "#00458A !important",
+  "--content-accent-primary-hover-on-dark": "#D4EEFF !important",
+  "--brand-primary-default": "#004D68 !important",
+  "--brand-primary-default-on-dark": "#8BB8C8 !important",
+  "--brand-primary-darker": "#00374B !important",
+  "--brand-secondary-default": "#FF4364 !important",
+  "--brand-secondary-default-on-dark": "#FF9EB5 !important"
 }
